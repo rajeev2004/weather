@@ -28,5 +28,5 @@ The Weather App allows users to enter a city name and retrieve real-time weather
 
 [Visit my Weather App](https://weather-noio.onrender.com)
 
-- ![Screenshot of the website](![Screenshot (108)](https://github.com/user-attachments/assets/45faf61d-c0c7-4a6b-8155-7a88831fb96c)
+- ![Screenshot (108)](https://github.com/user-attachments/assets/45faf61d-c0c7-4a6b-8155-7a88831fb96c)
 )
